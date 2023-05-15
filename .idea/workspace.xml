@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efe33bc7-30a3-417b-8a7e-c9fb7dd8932c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/springboot/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/sql/wumei-smart.sql" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/sql/wumei-smart.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-admin/src/main/java/com/ruoyi/web/controller/system/SysProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/wumei-admin/src/main/java/com/ruoyi/web/controller/system/SysProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-admin/src/main/resources/application-druid.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/wumei-admin/src/main/resources/application-druid.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/wumei-admin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/AlertController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/AlertLogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/AuthResourceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/DeviceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/DeviceJobController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/DeviceLogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/DeviceUserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/FirmwareController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/GroupController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/NewsCategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/NewsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/OauthClientDetailsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/ProductAuthorizeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/SceneController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/SocialLoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/SocialPlatformController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/ThingsModelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/ThingsModelTemplateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/ToolController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/controller/UserSocialController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/Alert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/AlertLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/DeviceGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/DeviceJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/DeviceLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/DeviceUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/Firmware.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/Group.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/NewsCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/OauthClientDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/ProductAuthorize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/Scene.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/SocialPlatform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/SocialUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/ThingsModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/ThingsModelTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/domain/UserSocialProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/AlertLogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/AlertMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/CategoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/DeviceJobMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/DeviceLogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/DeviceMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/DeviceUserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/FirmwareMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/GroupMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/NewsCategoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/NewsMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/OauthClientDetailsMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/ProductAuthorizeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/ProductMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/SceneMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/SocialPlatformMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/SocialUserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/ThingsModelMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mapper/ThingsModelTemplateMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/Action.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/AuthenticateInputModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/CategoryNews.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ChangeProductStatusModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/DeviceAllShortOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/DeviceGroupInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/DeviceNumberAndProductId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/DeviceRelateUserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/DeviceShortOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/DeviceStatistic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/IdAndName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/IdOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ImportThingsModelInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/MonitorModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/MqttAuthenticationModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/MqttClientConnectModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/MqttInfoModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/NtpModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ProductAuthenticateModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ProductAuthorizeVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/RegisterUserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModelItem/ArrayModelOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModelItem/BoolModelOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModelItem/DecimalModelOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModelItem/EnumItemOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModelItem/EnumModelOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModelItem/IntegerModelOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModelItem/ReadOnlyModelOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModelItem/StringModelOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModelItem/ThingsModelItemBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModels/EventDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModels/FunctionDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModels/IdentityAndName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModels/PropertyDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModels/ThingsModelShadow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModels/ThingsModelValueItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModels/ThingsModelValueItemDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModels/ThingsModelValueRemarkItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModels/ThingsModelValuesInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModels/ThingsModelValuesOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/ThingsModels/ThingsModelsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/UserIdDeviceIdModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/login/AuthRequestWrap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/login/BindIdValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/model/login/LoginIdValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mqtt/EmqxCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mqtt/EmqxClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mqtt/EmqxService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mqtt/EmqxStart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mqtt/MqttClientConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/mqtt/MqttConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/oauth/AuthorizationServerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/oauth/ResourceServerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/oauth/SpeakerApprovalHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/oauth/api/ConfirmAccessController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/oauth/api/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/oauth/api/SpeakerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IAlertLogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IAlertService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IAuthRequestFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/ICategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IDeviceJobService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IDeviceLogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IDeviceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IDeviceUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IFirmwareService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IGroupService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/INewsCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/INewsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IOauthClientDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IProductAuthorizeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/ISceneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/ISocialLoginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/ISocialPlatformService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/ISocialUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IThingsModelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IThingsModelTemplateService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IToolService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/IUserSocialProfileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/AlertLogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/AlertServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/AuthRequestFactoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/AuthStateRedisCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/CategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/DeviceJobServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/DeviceLogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/DeviceServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/DeviceUserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/FirmwareServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/GroupServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/NewsCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/NewsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/OauthClientDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/ProductAuthorizeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/SceneServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/SocialLoginServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/SocialPlatformServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/SocialUserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/ThingsModelServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/ThingsModelTemplateServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/ToolServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/service/impl/UserSocialProfileServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/task/IotAsyncExceptionHander.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/task/TaskConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/task/TaskExecutorConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/tdengine/config/TDengineConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/tdengine/dao/TDDeviceLogDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/tdengine/init/ApplicationStarted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/tdengine/service/ILogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/tdengine/service/factory/LogServiceFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/tdengine/service/impl/MySqlLogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/tdengine/service/impl/TdengineLogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/util/AESUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/util/SnowflakeIdWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/util/VelocityInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/util/VelocityUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/util/quartz/AbstractQuartzJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/util/quartz/CronUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/util/quartz/JobInvokeUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/util/quartz/QuartzDisallowConcurrentExecution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/util/quartz/QuartzJobExecution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/java/com/ruoyi/iot/util/quartz/ScheduleUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/AlertLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/AlertMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/CategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/DeviceJobMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/DeviceLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/DeviceMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/DeviceUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/FirmwareMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/GroupMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/NewsCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/NewsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/OauthClientDetailsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/ProductAuthorizeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/ProductMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/SceneMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/SocialPlatformMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/SocialUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/ThingsModelMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/iot/ThingsModelTemplateMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/mapper/tdengine/TDDeviceLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/static/oauth/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/templates/oauth/access_confirmation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/templates/oauth/clientDetails.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/templates/oauth/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/templates/oauth/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/vm/java/controller.java.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/vm/java/domain.java.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/vm/java/mapper.java.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/vm/java/service.java.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/vm/java/serviceImpl.java.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/vm/java/sub-domain.java.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/vm/js/api.js.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/vm/sql/sql.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/vm/vue/index-tree.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/vm/vue/index.vue.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/wumei-iot/src/main/resources/vm/xml/mapper.xml.vm" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven3.6.3\repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Maven3.6.3/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Maven3.6.3\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PoKkwgPp6BymomlMXxmccFO2Qo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WumeiSmartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wumei-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.WumeiSmartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efe33bc7-30a3-417b-8a7e-c9fb7dd8932c" name="Default Changelist" comment="" />
+      <created>1684118141849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684118141849</updated>
+      <workItem from="1684118146391" duration="8752000" />
+      <workItem from="1684142155544" duration="1630000" />
+      <workItem from="1684143941292" duration="11000" />
+      <workItem from="1684143996477" duration="1659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

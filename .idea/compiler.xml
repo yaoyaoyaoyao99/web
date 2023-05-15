@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wumei-quartz" />
+        <module name="wumei-common" />
+        <module name="wumei-generator" />
+        <module name="wumei-system" />
+        <module name="wumei-framework" />
+        <module name="wumei-admin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wumei" target="1.8" />
+      <module name="wumei-admin" target="1.8" />
+      <module name="wumei-common" target="1.8" />
+      <module name="wumei-framework" target="1.8" />
+      <module name="wumei-generator" target="1.8" />
+      <module name="wumei-iot" target="1.8" />
+      <module name="wumei-quartz" target="1.8" />
+      <module name="wumei-system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="wumei-admin" options="-bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar&quot;" />
+      <module name="wumei-common" options="-bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar&quot;" />
+      <module name="wumei-framework" options="-bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar&quot;" />
+      <module name="wumei-generator" options="-bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar&quot;" />
+      <module name="wumei-iot" options="-bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar&quot;" />
+      <module name="wumei-quartz" options="-bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar&quot;" />
+      <module name="wumei-system" options="-bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar;C:/Program Files/Java/jdk1.8.0_291/jre/lib/jce.jar&quot;" />
+    </option>
+  </component>
+</project>
